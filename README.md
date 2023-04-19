@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RashpalBains
 - 👀 I’m interested in DIYAccounts
-- 🌱 I’m currently learning DIY Accounting & ...
+- 🌱 I’m currently learning DIY Accounting, PyCharm and Pure Maths
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me by email: rashpalbains@gmail.com
 
